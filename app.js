@@ -2,14 +2,14 @@
 
 
 
-var Name =prompt("pleaes enter his/her name");
+var Name =prompt("please enter his/her name");
 
 
-var gender =prompt("pleaes enter his/her gender");
+var gender =prompt("please enter his/her gender");
 
 
 
-var age =prompt("pleaes enter his/her age");
+var age =prompt("please enter his/her age");
 
 if (age<=0) {
     alert("The age it's not could be less than or equal to zero")
