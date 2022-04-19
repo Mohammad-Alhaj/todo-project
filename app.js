@@ -36,3 +36,62 @@ else if ((gender!="femal")||gender==="male") {
  
  
 }
+
+//.............2...............................................
+
+let questionOne =()=>
+{
+   let answerOne =prompt("Are you familiar with any programming language?");
+  
+   if (answerOne===null) {
+       alert("invalid!");
+      
+   }
+   console.log(answerOne);
+}
+
+let questionTow =(x)=>
+{
+   let answerTow= prompt("Do you have any background about It?");
+if (answerTow===null) {
+    alert("invalid!");
+    
+}
+console.log(answerTow);
+}
+
+let questionThree =()=>
+{
+   let answerThree= prompt("Are you sure for learning JS?");
+if (answerThree===null) {
+    alert("invalid!");
+}
+console.log(answerThree);
+}
+
+let arr=[questionOne(),questionTow(),questionThree()]
+for (let index = 0; index < arr.length; index++) {
+    
+    arr[index];
+}
+
+
+
+ 
+
+
+
+
+//let arr=[answerOne,answerTow,answerthree];
+
+
+//let arr=[questionOne(),questionTow(),questionThree()];
+
+
+/*for (let index = 0; index < arr.length; index++) {
+    if (arr[index]=="yes"||"no") {
+        prompt("Indefi");
+    }
+    console.log(arr[index]);
+    
+}*/
