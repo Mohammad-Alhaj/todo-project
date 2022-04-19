@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap');
+
+
+
+
+* {
+    font-size: 50;
+
+font-family: 'Roboto', sans-serif;
+color:
+
+
+}
+.navbar{
+    text-align: center;
+    padding: 1.5rem;
+border: 10rem;
+-ms-text-size-adjust: auto;
+background-color: rgb(222, 217, 217);
+   
+}
+
+.bar{
+
+    margin: 5rem;
+    text-decoration: none;
+    font-size:1.2rem;
+    color: rgb(125, 122, 122);
+}
+
+.titl{
+text-align: center;
+margin: auto;
+color: rgb(68, 66, 66);
+}
+
+
+
+
+
+   
+
+img{
+    position: relative; 
+    bottom:75px;
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+}
+
+
+table{
+    width:40rem;
+font-size: 1.3rem;
+
+}
+
+th{
+    text-align: left;
+}
+.tablegreen{
+
+background-color: rgb(197, 31, 31);
+}
+.tablered{
+    background-color: rgb(31, 202, 18)
+}
+table,th,td{
+
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 0.5rem;
+   
+    text-align: center;
+  
+  margin: auto;
+}
+footer{
+
+    
+    font-size:1.1rem;
+padding-left: 3rem;
+     text-align: center;
+     background-color: rgb(222, 217, 217); 
+     padding-top:.5rem;
+     padding-bottom: 0.1rem;
+margin-top:13rem;
+
+
+}
+
+
+
+/*about us page  the nav bar and the footer it's take from the clss home page*/
+.yourname{
+
+    
+    font-size: 30px;
+    color: rgb(204, 65, 65); 
+
+    
+    text-align: center;
+    
+  position: relative;
+  top: -350px;  
+  border: 0px;
+
+  border: 1rem;
+
+}
+
+.self{
+ 
+border: 2px solid black;
+    font-size: 30px;
+    color: rgb(68, 66, 66); 
+
+    text-align: center;
+  position: relative;
+ 
+  top: -300px;  
+  padding: 70px;
+ margin-left : 500px;
+ margin-right : 500px;
+  
+}
+ 
+.img{
+width: 20rem;
+height: 20rem;
+position: relative;
+  top: -10px;  
+}
+
+
+
+
+
+
+#contactme{
+
+    font-size: 30px;
+    color: rgb(68, 66, 66); 
+
+    text-align: center;
+  position: relative;
+
+  top:-100px;  
+
+  margin: 2rem;
+  padding: 1rem;
+  border: 1rem;  
+ 
+}
+
+.aftercon{
+    font-size: 35px;
+    display: block;
+    margin: auto;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+.contact{
+    font-size: 20px;
+   text-align: center;
+}
+
+.but{
+    font-size: 30px;
+color: #fff;
+    background-color: rgb(114, 121, 198);
+    display: block;
+ margin: auto;
+padding-left:10px ;
+padding-right:10px ;
+   
+}
+.footeraboutme{
+
+    font-size:1.1rem;
+    padding-left: 3rem;
+         text-align: center;
+         background-color: rgb(222, 217, 217); 
+         padding-top:.5rem;
+         padding-bottom: 0.1rem;
+    margin-top:13rem;
+}
